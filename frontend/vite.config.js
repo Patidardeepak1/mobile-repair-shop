@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       // Leave analytics out unless you *really* want it external
-      external: ["react", "react-dom"],
+      external: [],
     },
   },
 });
