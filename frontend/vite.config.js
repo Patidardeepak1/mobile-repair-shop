@@ -5,7 +5,8 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ["react", "react-dom"], // Only add actual external packages
+      // Leave analytics out unless you *really* want it external
+      external: ["react", "react-dom"],
     },
   },
 });
