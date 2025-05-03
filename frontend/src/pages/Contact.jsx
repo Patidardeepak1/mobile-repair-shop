@@ -69,7 +69,8 @@ const Contact = () => {
                   d="M12 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3zm0 0v7m0 0H9.5a3.5 3.5 0 01-3.5-3.5V7.5a3.5 3.5 0 013.5-3.5H14a3.5 3.5 0 013.5 3.5v7a3.5 3.5 0 01-3.5 3.5H12z"
                 />
               </svg>
-              <span className="text-lg text-gray-600 dark:text-gray-300">123 Mobile St., City Name, Country</span>
+              <span className="text-lg text-gray-600 dark:text-gray-300">Punjabi Mohalla, near Saraswati Shishu Mandir, Shujalpur Mandi.</span>
+            
             </div>
           </div>
         </div>
