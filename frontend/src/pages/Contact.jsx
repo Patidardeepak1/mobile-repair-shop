@@ -31,7 +31,7 @@ const Contact = () => {
                   d="M16 11V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v7m6 4l-6 6-6-6"
                 />
               </svg>
-              <span className="text-lg text-gray-600 dark:text-gray-300">+1 234 567 890</span>
+              <span className="text-lg text-gray-600 dark:text-gray-300">+91 91719 90787</span>
             </div>
 
             {/* Email Address */}

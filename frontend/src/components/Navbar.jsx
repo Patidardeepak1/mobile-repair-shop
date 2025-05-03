@@ -21,7 +21,7 @@ const Navbar = () => {
         <img src={logo} alt="Maa Jagdamba Mobile Repair Logo" className="h-10 mr-3" />
 
           <h1 className="text-2xl font-extrabold text-black-600 dark:text-white">
-            Maa Jagdamba Mobile Repair
+            Maa Ambe Mobile Repair
           </h1>
         </div>
 

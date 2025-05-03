@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-screen-xl mx-auto px-4 text-center">
         {/* Footer Branding and Description */}
         <div className="space-y-3">
-          <h2 className="text-2xl font-bold text-black-400 dark:text-white">Maa Jagdamba Mobile Repair</h2>
+          <h2 className="text-2xl font-bold text-black-400 dark:text-white">Maa Ambe Mobile Repair</h2>
           <p className="text-sm text-gray-800 dark:text-gray-400">
             Your one-stop solution for mobile repairs. Fast, reliable, and affordable services.
           </p>
@@ -23,7 +23,7 @@ const Footer = () => {
 
         {/* Divider and Copyright */}
         <div className="mt-6 dark:text-gray-400  pt-4 text-sm text-gray-800">
-          <p>&copy; {new Date().getFullYear()} Maa Jagdamba Mobile Repair. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Maa Ambe Mobile Repair. All rights reserved.</p>
         </div>
       </div>
     </footer>
